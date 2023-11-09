@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/oajerq2nf555aoth/branch/main?svg=true)](https://ci.appveyor.com/project/sergey163855/mobilebankapi-iq54o/branch/main)
+[![Java CI with Gradle](https://github.com/sergey163855/EchoTest/actions/workflows/gradle.yml/badge.svg)](https://github.com/sergey163855/EchoTest/actions/workflows/gradle.yml)
