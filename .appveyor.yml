@@ -1,4 +1,4 @@
-image: Ubuntu1804
+image: Ubuntu
 
 stack: jdk 11
 branches:
