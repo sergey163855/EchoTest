@@ -3,12 +3,12 @@ image: Ubuntu
 stack: jdk 11
 branches:
   only:
-    - master
+     master
 
 build: off
 
 install:
-  -chmod +x gradlew
+  - chmod +x gradlew
 
 build_script:
   - ./gradlew test --info
