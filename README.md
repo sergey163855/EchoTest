@@ -1,1 +1,1 @@
-[![Java CI with Gradle](https://github.com/sergey163855/EchoTest/actions/workflows/gradle.yml/badge.svg)](https://github.com/sergey163855/EchoTest/actions/workflows/gradle.yml)
+[![Build status](https://ci.appveyor.com/api/projects/status/24iyuqwhldcogauh/branch/main?svg=true)](https://ci.appveyor.com/project/sergey163855/echotest-7625h/branch/main)
